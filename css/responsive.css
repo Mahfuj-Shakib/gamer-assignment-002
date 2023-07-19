@@ -22,6 +22,7 @@
     .gammer-images{
         width: 500px;
         margin-left: 180px;
+        padding-top: 50px;
     }
     .online-game-img{
         display: grid;
@@ -59,5 +60,5 @@
             margin-top: 50px;
             padding-left: 120px;
         }
-        
-}
+    }
+    
