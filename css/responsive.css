@@ -47,6 +47,14 @@
         text-align: center;
         line-height: 35px;
     }
+    .footer-menu ul, .privacy ul{
+        grid-template-columns: repeat(2, 1fr);
+        align-items: center;
+        width: 50%;
+    }
+    .footer-menu ul li, .privacy ul li{
+        margin-top: 20px;
+    }
 }
 /* tablet-device */
 @media screen and (min-width:576px) and (max-width:992px) {
